@@ -160,3 +160,141 @@
   Interfaces       : Local Area Connection* 9:169.254.147.79; Local Area Connection* 10:169.254.206.53; Wi-Fi:10.191.58.34; Bluetooth Network Connection:169.254.132.141; Loopback Pseudo-Interface 1:127.0.0.1
   Notes            : Monitoring stopped by user.
 ────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────
+  Investigation ID : 2119c954-025f-4bb8-92be-0ae45dd14e8d
+  Session ID       : EEA05BE6
+  Event            : MONITORING_STARTED
+  Detection Time   : 2026-10-17 17:15:54 UTC
+  File             : Test_File.txt
+  Full Path        : C:\Users\Lenovo\Downloads\Test_File.txt
+  File Size        : 61 bytes
+  Original Hash    : 3b6ddada21df4394e084cb5254414f58e1994c86dbe8596babaf2879429d5bc6
+  Previous Hash    : 3b6ddada21df4394e084cb5254414f58e1994c86dbe8596babaf2879429d5bc6
+  Current Hash     : 3b6ddada21df4394e084cb5254414f58e1994c86dbe8596babaf2879429d5bc6
+  Username         : Lenovo
+  Hostname         : Deepesh
+  OS               : Windows 11 (10.0.26300)
+  Local IPs        : 169.254.147.79; 169.254.206.53; 192.168.31.217; 169.254.132.141; 127.0.0.1
+  MAC Addresses    : Local Area Connection* 9=54-6C-EB-CD-74-37; Local Area Connection* 10=56-6C-EB-CD-74-36; Wi-Fi=54-6C-EB-CD-74-36; Bluetooth Network Connection=54-6C-EB-CD-74-3A
+  Interfaces       : Local Area Connection* 9:169.254.147.79; Local Area Connection* 10:169.254.206.53; Wi-Fi:192.168.31.217; Bluetooth Network Connection:169.254.132.141; Loopback Pseudo-Interface 1:127.0.0.1
+  Notes            : Baseline established. Monitoring started.
+────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────
+  Investigation ID : 2119c954-025f-4bb8-92be-0ae45dd14e8d
+  Session ID       : EEA05BE6
+  Event            : MODIFIED
+  Detection Time   : 2026-10-17 17:16:29 UTC
+  File             : Test_File.txt
+  Full Path        : C:\Users\Lenovo\Downloads\Test_File.txt
+  File Size        : 103 bytes
+  Original Hash    : 3b6ddada21df4394e084cb5254414f58e1994c86dbe8596babaf2879429d5bc6
+  Previous Hash    : 3b6ddada21df4394e084cb5254414f58e1994c86dbe8596babaf2879429d5bc6
+  Current Hash     : 9a2e64e3b801f9db50b49d28e6ada2050ae11c833f9030167574df92991901e2
+  Username         : Lenovo
+  Hostname         : Deepesh
+  OS               : Windows 11 (10.0.26300)
+  Local IPs        : 169.254.147.79; 169.254.206.53; 192.168.31.217; 169.254.132.141; 127.0.0.1
+  MAC Addresses    : Local Area Connection* 9=54-6C-EB-CD-74-37; Local Area Connection* 10=56-6C-EB-CD-74-36; Wi-Fi=54-6C-EB-CD-74-36; Bluetooth Network Connection=54-6C-EB-CD-74-3A
+  Interfaces       : Local Area Connection* 9:169.254.147.79; Local Area Connection* 10:169.254.206.53; Wi-Fi:192.168.31.217; Bluetooth Network Connection:169.254.132.141; Loopback Pseudo-Interface 1:127.0.0.1
+────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────
+  Investigation ID : 2119c954-025f-4bb8-92be-0ae45dd14e8d
+  Session ID       : EEA05BE6
+  Event            : MANUAL_VERIFY
+  Detection Time   : 2026-10-17 17:19:11 UTC
+  File             : Test_File.txt
+  Full Path        : C:\Users\Lenovo\Downloads\Test_File.txt
+  File Size        : 103 bytes
+  Original Hash    : 3b6ddada21df4394e084cb5254414f58e1994c86dbe8596babaf2879429d5bc6
+  Previous Hash    : 3b6ddada21df4394e084cb5254414f58e1994c86dbe8596babaf2879429d5bc6
+  Current Hash     : 9a2e64e3b801f9db50b49d28e6ada2050ae11c833f9030167574df92991901e2
+  Username         : Lenovo
+  Hostname         : Deepesh
+  OS               : Windows 11 (10.0.26300)
+  Local IPs        : 169.254.147.79; 169.254.206.53; 192.168.31.217; 169.254.132.141; 127.0.0.1
+  MAC Addresses    : Local Area Connection* 9=54-6C-EB-CD-74-37; Local Area Connection* 10=56-6C-EB-CD-74-36; Wi-Fi=54-6C-EB-CD-74-36; Bluetooth Network Connection=54-6C-EB-CD-74-3A
+  Interfaces       : Local Area Connection* 9:169.254.147.79; Local Area Connection* 10:169.254.206.53; Wi-Fi:192.168.31.217; Bluetooth Network Connection:169.254.132.141; Loopback Pseudo-Interface 1:127.0.0.1
+  Notes            : Manual verification: MISMATCH
+────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────
+  Investigation ID : 2119c954-025f-4bb8-92be-0ae45dd14e8d
+  Session ID       : EEA05BE6
+  Event            : MANUAL_VERIFY
+  Detection Time   : 2026-10-17 17:20:33 UTC
+  File             : Test_File.txt
+  Full Path        : C:\Users\Lenovo\Downloads\Test_File.txt
+  File Size        : 103 bytes
+  Original Hash    : 3b6ddada21df4394e084cb5254414f58e1994c86dbe8596babaf2879429d5bc6
+  Previous Hash    : 3b6ddada21df4394e084cb5254414f58e1994c86dbe8596babaf2879429d5bc6
+  Current Hash     : 9a2e64e3b801f9db50b49d28e6ada2050ae11c833f9030167574df92991901e2
+  Username         : Lenovo
+  Hostname         : Deepesh
+  OS               : Windows 11 (10.0.26300)
+  Local IPs        : 169.254.147.79; 169.254.206.53; 192.168.31.217; 169.254.132.141; 127.0.0.1
+  MAC Addresses    : Local Area Connection* 9=54-6C-EB-CD-74-37; Local Area Connection* 10=56-6C-EB-CD-74-36; Wi-Fi=54-6C-EB-CD-74-36; Bluetooth Network Connection=54-6C-EB-CD-74-3A
+  Interfaces       : Local Area Connection* 9:169.254.147.79; Local Area Connection* 10:169.254.206.53; Wi-Fi:192.168.31.217; Bluetooth Network Connection:169.254.132.141; Loopback Pseudo-Interface 1:127.0.0.1
+  Notes            : Manual verification: MISMATCH
+────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────
+  Investigation ID : 2119c954-025f-4bb8-92be-0ae45dd14e8d
+  Session ID       : EEA05BE6
+  Event            : MODIFIED
+  Detection Time   : 2026-10-17 17:20:42 UTC
+  File             : Test_File.txt
+  Full Path        : C:\Users\Lenovo\Downloads\Test_File.txt
+  File Size        : 36 bytes
+  Original Hash    : 3b6ddada21df4394e084cb5254414f58e1994c86dbe8596babaf2879429d5bc6
+  Previous Hash    : 3b6ddada21df4394e084cb5254414f58e1994c86dbe8596babaf2879429d5bc6
+  Current Hash     : 77c458f0e6e998904766c6d7cf9ffa38e1e16a0e56db7f88a34fbeab59fe071d
+  Username         : Lenovo
+  Hostname         : Deepesh
+  OS               : Windows 11 (10.0.26300)
+  Local IPs        : 169.254.147.79; 169.254.206.53; 192.168.31.217; 169.254.132.141; 127.0.0.1
+  MAC Addresses    : Local Area Connection* 9=54-6C-EB-CD-74-37; Local Area Connection* 10=56-6C-EB-CD-74-36; Wi-Fi=54-6C-EB-CD-74-36; Bluetooth Network Connection=54-6C-EB-CD-74-3A
+  Interfaces       : Local Area Connection* 9:169.254.147.79; Local Area Connection* 10:169.254.206.53; Wi-Fi:192.168.31.217; Bluetooth Network Connection:169.254.132.141; Loopback Pseudo-Interface 1:127.0.0.1
+────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────
+  Investigation ID : 2119c954-025f-4bb8-92be-0ae45dd14e8d
+  Session ID       : EEA05BE6
+  Event            : MANUAL_VERIFY
+  Detection Time   : 2026-10-17 17:20:54 UTC
+  File             : Test_File.txt
+  Full Path        : C:\Users\Lenovo\Downloads\Test_File.txt
+  File Size        : 36 bytes
+  Original Hash    : 3b6ddada21df4394e084cb5254414f58e1994c86dbe8596babaf2879429d5bc6
+  Previous Hash    : 9a2e64e3b801f9db50b49d28e6ada2050ae11c833f9030167574df92991901e2
+  Current Hash     : 77c458f0e6e998904766c6d7cf9ffa38e1e16a0e56db7f88a34fbeab59fe071d
+  Username         : Lenovo
+  Hostname         : Deepesh
+  OS               : Windows 11 (10.0.26300)
+  Local IPs        : 169.254.147.79; 169.254.206.53; 192.168.31.217; 169.254.132.141; 127.0.0.1
+  MAC Addresses    : Local Area Connection* 9=54-6C-EB-CD-74-37; Local Area Connection* 10=56-6C-EB-CD-74-36; Wi-Fi=54-6C-EB-CD-74-36; Bluetooth Network Connection=54-6C-EB-CD-74-3A
+  Interfaces       : Local Area Connection* 9:169.254.147.79; Local Area Connection* 10:169.254.206.53; Wi-Fi:192.168.31.217; Bluetooth Network Connection:169.254.132.141; Loopback Pseudo-Interface 1:127.0.0.1
+  Notes            : Manual verification: MISMATCH
+────────────────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────────────────
+  Investigation ID : 2119c954-025f-4bb8-92be-0ae45dd14e8d
+  Session ID       : EEA05BE6
+  Event            : MONITORING_STOPPED
+  Detection Time   : 2026-10-17 17:21:29 UTC
+  File             : Test_File.txt
+  Full Path        : C:\Users\Lenovo\Downloads\Test_File.txt
+  File Size        : 36 bytes
+  Original Hash    : 3b6ddada21df4394e084cb5254414f58e1994c86dbe8596babaf2879429d5bc6
+  Previous Hash    : 9a2e64e3b801f9db50b49d28e6ada2050ae11c833f9030167574df92991901e2
+  Current Hash     : 77c458f0e6e998904766c6d7cf9ffa38e1e16a0e56db7f88a34fbeab59fe071d
+  Username         : Lenovo
+  Hostname         : Deepesh
+  OS               : Windows 11 (10.0.26300)
+  Local IPs        : 169.254.147.79; 169.254.206.53; 192.168.31.217; 169.254.132.141; 127.0.0.1
+  MAC Addresses    : Local Area Connection* 9=54-6C-EB-CD-74-37; Local Area Connection* 10=56-6C-EB-CD-74-36; Wi-Fi=54-6C-EB-CD-74-36; Bluetooth Network Connection=54-6C-EB-CD-74-3A
+  Interfaces       : Local Area Connection* 9:169.254.147.79; Local Area Connection* 10:169.254.206.53; Wi-Fi:192.168.31.217; Bluetooth Network Connection:169.254.132.141; Loopback Pseudo-Interface 1:127.0.0.1
+  Notes            : Monitoring stopped by user.
+────────────────────────────────────────────────────────────────────────
